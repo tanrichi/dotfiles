@@ -4,3 +4,6 @@
 [submodule "wezterm"]
 	path = wezterm
 	url = git@github.com:tanrichi/wezterm.git
+[submodule "waybar"]
+	path = waybar
+	url = git@github.com:tanrichi/waybar.git
