@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:tanrichi/nvim.git
+[submodule "wezterm"]
+	path = wezterm
+	url = git@github.com:tanrichi/wezterm.git
