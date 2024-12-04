@@ -7,3 +7,6 @@
 [submodule "wlogout"]
 	path = wlogout
 	url = git@github.com:tanrichi/wlogout.git
+[submodule "waybar"]
+	path = waybar
+	url = git@github.com:tanrichi/waybar.git
